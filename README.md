@@ -24,13 +24,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+![tip calc gif] (gif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My billField outlet got disconnected so I was receiving errors whenever I tried using the text field but did not know why.
 
 ## License
 
